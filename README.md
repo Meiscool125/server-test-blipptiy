@@ -25,4 +25,9 @@ second tab: `cd bungee && sudo java -jar bungee.jar`
 <br>
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
 <br>
+Look at port `8081`s `forwarded address` section, hover over it, and click `copy local address`
+Go to Eaglercraft and paste it into the server link. Before you join,
+replace `https` with `wss`
+<br>
+<br>
 Your eaglercraft server is setup!
